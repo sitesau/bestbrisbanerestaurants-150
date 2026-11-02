@@ -1,0 +1,22 @@
+{
+  "wheel_id": 677,
+  "structure": "umbrella",
+  "slug": "bestbrisbanerestaurants-150",
+  "project": "restaurants-brisbane-quotes-explained-0c57a276161b87cc41097d26a",
+  "parent_t1_ref": "bestbrisbanerestaurants-010",
+  "node_role": "buffer",
+  "money_target": "bestbrisbanerestaurants.com.au",
+  "primary_kw": "restaurants brisbane quotes explained",
+  "intended_url": "https://sitesau.github.io/bestbrisbanerestaurants-150/",
+  "tier": "T2",
+  "writeback_nonce": "6b8ab9bf1bccb9f8",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/restaurants-brisbane/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
